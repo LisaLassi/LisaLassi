@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Lisa
+DevOps Engineer student.
 
-<!--
-**LisaLassi/LisaLassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies
+- Linux
+- Docker
+- Kubernetes
+- GitLab CI/CD
+- Bash
+- Git
 
-Here are some ideas to get you started:
+## About me
+Most of my projects are completed within my education and are hosted in my school's GitLab environment. This GitHub profile contains personal labs and projects that can be shared publicly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+- Kubernetes
+- Infrastructure as Code
+- CI/CD automation
