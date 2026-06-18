@@ -1,4 +1,5 @@
-# Hi, I'm Lisa
+# Hi, I'm Lisa 
+
 DevOps Engineer student.
 
 ## Technologies
@@ -10,9 +11,9 @@ DevOps Engineer student.
 - Git
 
 ## About me
-Most of my projects are completed within my education and are hosted in my school's GitLab environment. This GitHub profile contains personal labs and projects that can be shared publicly.
+Most of my coursework and team projects are hosted in my school's GitLab environment and therefore cannot be published here. This GitHub profile contains personal labs and projects that can be shared publicly.
 
 ## Currently learning
 - Kubernetes
 - Infrastructure as Code
-- CI/CD automation
+- CI/CD Automation
